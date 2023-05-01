@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-size: 25px;
+	background-color: #E4E4E4;
+}
+.tcontent {
+	display: flex;
+	justify-content: center;
+}
+.cpcontent {
+	margin-top: 50px;
+	margin-bottom: 70px;
+}
+input{
+	border: 1px solid #000000;
+	padding: 8px;
+	margin: 15px;
+}
+label {
+	font-family: 'Open Sans', sans-serif;
+}
+.sbutton {
+	position: relative;
+	left: 90px;
+	top: 30px;
+	
+}
+.rbutton{
+	position: relative;
+	left: 90px;
+	top: 30px;
+}
